@@ -95,8 +95,8 @@ The output quality depends on how well you write the prompt. The skill is just t
 
 1. **Clone this repo:**
    ```
-   git clone https://github.com/GranDiego1/vibe-coding-workshop.git
-   cd vibe-coding-workshop
+   git clone https://github.com/marilynika/ai-pm-bootcamp-cc.git
+   cd ai-pm-bootcamp-cc
    ```
 
 2. **Install Claude Code.** On macOS and Linux:
@@ -111,7 +111,7 @@ The output quality depends on how well you write the prompt. The skill is just t
    ```
    claude
    ```
-   (Run it from inside the `vibe-coding-workshop` folder.)
+   (Run it from inside the `ai-pm-bootcamp-cc` folder.)
 
 5. **Confirm the commands are loaded.** Type `/` at the Claude Code prompt. You should see `/find-evidence`, `/draft-prd`, `/review-prd`, `/improve-prd`, `/vibe-code` in the list.
 
