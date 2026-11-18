@@ -2,7 +2,7 @@
 
 > **This is a reference example.** It shows what a filled-in PRD looks like using the food-waste problem that runs through the workshop. Use it as a "good looks like this" anchor when reading the empty template. Do not copy-paste; your PRD should come from your own evidence.
 
-**Owner:** Diego G.
+**Owner:** Marily N.
 **Status:** Draft v1
 **Last updated:** 2026-04-23
 
