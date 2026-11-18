@@ -5,7 +5,7 @@ Run these in order in the same Claude Code session. Each chains through subagent
 ## Setup
 
 ```
-cd path/to/vibe-coding-workshop
+cd path/to/ai-pm-bootcamp-cc
 claude
 ```
 
