@@ -27,7 +27,7 @@ Run through this 15 minutes before the demo starts.
 
 1. Open this folder in Claude Code:
    ```
-   cd path/to/vibe-coding-workshop
+   cd path/to/ai-pm-bootcamp-cc
    claude
    ```
 2. Confirm Claude Code sees the commands and agents: type `/` in the Claude Code prompt. You should see `/find-evidence`, `/draft-prd`, `/review-prd`, `/improve-prd`, `/vibe-code` in the menu.
@@ -185,7 +185,7 @@ Rough target for the full demo: **25-40 minutes.** Longer if the Q&A in each ste
 - Claude Code isn't installed or isn't on your PATH. Reinstall from the install guide (see README.md), then open a new terminal.
 
 **Typing `/` shows no commands**
-- You are not in the `vibe-coding-workshop` folder. Check with `pwd`. Exit Claude Code, `cd` to the repo root, relaunch `claude`.
+- You are not in the `ai-pm-bootcamp-cc` folder. Check with `pwd`. Exit Claude Code, `cd` to the repo root, relaunch `claude`.
 - `.claude/commands/` is missing. Check that you cloned the full repo, not a shallow copy.
 
 **A subagent errors out**
