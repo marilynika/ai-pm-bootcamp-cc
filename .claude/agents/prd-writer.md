@@ -55,6 +55,6 @@ Follow the template structure exactly. Every section must be present. If a secti
 
 - Do not reproduce the template boilerplate. Replace every bracketed placeholder with real content.
 - Do not pad. If a section is short because there is nothing to say, keep it short.
-- Do not use the banned patterns Diego has called out: no "leverage," "seamless," "unlock," "dive in," "robust," "comprehensive," no em dashes, no "here's the thing."
+- Do not use these banned patterns: no "leverage," "seamless," "unlock," "dive in," "robust," "comprehensive," no em dashes, no "here's the thing."
 - Do not write a feature list disguised as a solution. The solution is what the user experiences.
 - Do not pick a solution that contradicts the evidence. If people in the research said "I do not want an app for this," do not propose an app.
